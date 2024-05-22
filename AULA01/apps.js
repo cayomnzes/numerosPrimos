@@ -1,2 +1,1 @@
-
-console.log ("olar a todosss");
+console.log ("olar a todos");
